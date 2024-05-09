@@ -1,6 +1,6 @@
 module github.com/jferrl/ulehub
 
-go 1.22.0
+go 1.22
 
 require github.com/apex/gateway v1.1.2
 
